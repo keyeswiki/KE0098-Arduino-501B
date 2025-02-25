@@ -1,53 +1,6 @@
-Arduino电子迷基础元件包套件501B
+# 3、Arduino
 
-![](media/e7024a9cfb37ff83de1ff5dd50e8b4ff.jpg)
-
-# 1、说明
-
-这个套件包含我们玩单片机时使用到的常用元件，如不同阻值的电阻、不同颜色的LED灯、舵机、传感器、显示器等。它适用于各种单片机和树莓派。我们还会根据这些元件，提供一些基于Arduino开发板的一些学习课程，如LED闪烁实验、光控灯实验、数码管显示实验、火焰报警实验等，让你对这些电子元件和Arduino开发板有个初步的了解。
-
-# 2、清单
-
-
-|编码|名称|描述|数量|图片|
-|-|-|-|-|-|
-|1|LED|F5-红发红-短|10|![](media/1eba37a568de56317c9b9a59738e76ee.png)|
-|2|LED|F5-黄发黄-短|10|![](media/c871ecd95ce2be359e1ac2babcfcfaeb.png)|
-|3|LED|F5-蓝发蓝-短|10|![](media/88d6bec911781d5e62b2e2080e5df93e.png)|
-|4|LED|F5-绿发绿-短|10|![](media/fb6f7a17d1cd0704124dd36063ef06bd.png)|
-|5|LED|F5-全彩RGB透明共阴|1|![](media/edf0ee5faa95d2322ac7202210cbb1bf.jpg)|
-|6|电阻|碳膜色环 1/4W 1% 220R 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|7|电阻|碳膜色环 1/4W 1% 1K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|8|电阻|碳膜色环 1/4W 1% 10K 编带|10|![](media/f6a8649da4e79abb2f1d15479f073bb5.jpg)|
-|9|陶瓷电容|10NF 103 2.54|10|![](media/c6adec13381acac501af4d83d3036c7e.jpg)|
-|10|陶瓷电容|100NF 104 2.54|10|![](media/805cef5e0b63e9488fb1ac1e92fba474.jpg)|
-|11|电解电容|100UF 16V 5*11MM 插件|5|![](media/21886581bcce7e7f1198116ed5de42dc.jpg)|
-|12|按键帽|A24 黄帽(12*12*7.3)圆|4|![](media/0d34492b10fc29699d3b4a1ac7763e7d.jpg)|
-|13|轻触按键|12*12*7.3MM 插件|4|![](media/0d34492b10fc29699d3b4a1ac7763e7d.jpg)|
-|17|蜂鸣器|有源 12*9.5MM 5V 普通分体 2300Hz|1|![](media/5a749ec6435e3982bf4dbdc5eaf7b51e.jpg)|
-|18|蜂鸣器|无源 12*8.5MM 5V 普通分体 2K|1|![](media/0c80123578173c033dcc8f1b73b1a58b.jpg)|
-|19|光敏电阻|5516 亮电阻5-10KΩ 暗电阻0.2MΩ|2|![](media/c09cb519c3304d4c23eb6c479657c4d0.jpg)|
-|20|热敏电阻|5MM 103 阻值 10K 绿色 插件|2|![](media/9911fc31c9c129308adb141b564f69b9.png)|
-|21|滚珠开关|HDX-2801 两脚一样|2|![](media/4c38f358a550b7fe0a3710264d51caf2.jpg)|
-|22|数码管|一位0.56英寸共阴红|1|![](media/7787953ef7619ae3753a3324751ceffc.jpg)|
-|23|数码管|四位0.36英寸共阴红 3461AH|1|![](media/ee1041a554ca5afac06a3fb6239f0902.jpg)|
-|24|点阵|20*20MM 1.9MM 红色 共阳|1|![](media/39c51eadf7598cd1a27288ca02a2a6c2.jpg)|
-|25|IC|74HC595 DIP|1|![](media/dc24a3d21371615ac26dab71e236e85e.jpg)|
-|24|可调电位器|3386 MU 103（三针直排）|1|![](media/6d6025bc96667b6f44070355f2041f13.jpg)|
-|25|二极管|1N4007插件 KED|2|![](media/42a0bd5d88299d1a4395e864ada78449.jpg)|
-|26|传感器元件|LM35DZ|1|![](media/c971ffe64d81aea1a195c9b7ae517b24.jpg)|
-|27|传感器元件|红外接收 5MM 火焰|1|![](media/737ba3f73c03fc1a7aac6f07063d06cf.jpg)|
-|28|舵机|SG90 9G 23*12.2*29mm 蓝色 辉盛(环保）|1|![](media/57a1e55e27c82e0ae9aa0b8d88e24b17.jpg)|
-|29|排针|1*40P 黑色 2.54 针长3.0等边|1|![](media/c1a95d6334a4e20388ddb5a75683c495.png)|
-|30|面包板|830孔 ZY-102（ 未包装）|1|![](media/c00412628e0b8791a5218b9e066b7d8d.jpg)|
-|30|面包线|面包板连接线50根|1|![](media/a741fbc4b471318a5e3ef45f3871c07c.png)|
-|31|电池盒+插杆|4节5号带线15CM露线2侧小孔+插杆|1|![](media/7d1283175faac7bb77b8a3e333640769.jpg)|
-|32|电阻卡|100*70MM|1|![](media/2e0238b84585943d531ae10d88551d7c.jpg)|
-|33|元件盒|绿色 2# 绿 75×31.5×21.5 16克|1|![](media/14e3865259225cc6ece92bd01c0518ba.png)|
-
-
-
-# 3、Arduino IDE和驱动的安装
+# 3.1、Arduino IDE和驱动的安装
 
 当我们拿到开发板时，首先我们要安装Arduino IDE和驱动，相关文件我们可以在官网上找到，以下链接是包含各种系统、各种版本的Arduino IDE和驱动任你选择。
 
@@ -110,7 +63,7 @@ Arduino电子迷基础元件包套件501B
 
 ![](media/af9806622ecf816c62f7597448a3cc5f.png)
 
-# 4、Arduino IDE的使用方法
+# 3.2、Arduino IDE的使用方法
 
 Keyes UNO R3
 开发板的USB驱动安装成功之后，我们可以在Windows设备管理器中找到相应的串口。
@@ -181,7 +134,7 @@ Serial.println("Hello World!");
 
 那么恭喜你，你的第一个程序已经成功了！！！
 
-# 5、实验课程
+# 3.3、实验课程
 
 ## 实验一 LED 闪烁实验
 
@@ -2690,14 +2643,3 @@ myservo.write(90);//设置舵机旋转的角度
 程序B结果：
 
 舵机自己转动到90度位置。
-
-# 6、相关资料链接
-
-<https://pan.baidu.com/s/10J1UNOrMfEuNEdPS2HSO6A>
-
-提取码：ln2z
-
-
-
-
-
